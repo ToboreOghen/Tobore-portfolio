@@ -18,6 +18,6 @@ So I upgraded my old calculator project to give it a face. Now it doesn’t just
 1. Install Python 3 on your system.
 2. Clone this repo:
    ```bash
-   git clone https://github.com/Tobore_Oghen/tkinter-calculator.git
+   git clone https://github.com/ToboreOghen/tkinter-calculator.git
    cd tkinter-calculator
    
