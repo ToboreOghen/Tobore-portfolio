@@ -1,4 +1,3 @@
-# my calculator.
 # 🧮 Python Tkinter Calculator
 
 This is a simple **calculator app with GUI** built using Python’s `tkinter`.
@@ -18,6 +17,8 @@ So I upgraded my old calculator project to give it a face. Now it doesn’t just
 1. Install Python 3 on your system.
 2. Clone this repo:
    ```bash
-   git clone https://github.com/ToboreOghen/tkinter-calculator.git
-   cd tkinter-calculator
+   git clone https://github.com/ToboreOghen/Tobore-tkinter-calculator.git
+   cd Tobore-tkinter-calculator
+   python calculator.py
+   
    
